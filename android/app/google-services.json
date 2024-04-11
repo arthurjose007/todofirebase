@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505144859927",
+    "project_id": "days-f31cb",
+    "storage_bucket": "days-f31cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505144859927:android:317baa088a39ec4a16ab52",
+        "android_client_info": {
+          "package_name": "com.example.todofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAl8KAwv5ibH1FYv-ourGabAgfjj9VCRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505144859927:android:110aeb16f1bc169416ab52",
+        "android_client_info": {
+          "package_name": "com.example.todofirebaseaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAl8KAwv5ibH1FYv-ourGabAgfjj9VCRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
